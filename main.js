@@ -69,7 +69,7 @@
         context.beginPath();
         context.fillStyle = "black";
         context.font = "40px Great Vibes";
-        context.fillText(" Wake Up Dude ", 290, 240);   
+        context.fillText(" Wake Up Dude! ", 290, 240);   
         context.closePath();
         // Some Random center Text ===============
     }
