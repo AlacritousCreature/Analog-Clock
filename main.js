@@ -34,7 +34,7 @@
         context.beginPath();
         var grd = context.createRadialGradient(400, 400, 10, 400, 400, 360);
         grd.addColorStop(0, "white");
-        grd.addColorStop(1, "#c1e897");/*#b7d0f7*/
+        grd.addColorStop(1, "#b7d0f7");/*#c1e897*/
 
         context.fillStyle = grd;
         
